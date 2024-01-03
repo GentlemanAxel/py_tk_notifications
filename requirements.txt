@@ -1,0 +1,6 @@
+python==3.8
+
+# Bibliothèques graphiques
+tkinter==8.6
+matplotlib==3.4.3
+
